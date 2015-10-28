@@ -15,11 +15,11 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 # Delete the word 'example' if you don't want to include the icon in the left sidebar
 
 weibo_username:       2827942944/profile?topnav=1&wvr=6 
-twitter_username:     example  # Replace this with your Twitter username
+twitter_username:       # Replace this with your Twitter username
 github_username:      hades03  # Replace this with your GitHub username
 linkedin_username:      # Replace this with your LinkedIn username
-google_plus_username: example  # Replace this with your Google+ username
-facebook_username:    example  # Replace this with your Facebook username
+google_plus_username:   # Replace this with your Google+ username
+facebook_username:      # Replace this with your Facebook username
 dribbble_username:      # Replace this with your Dribbble username
 
 # Build settings
